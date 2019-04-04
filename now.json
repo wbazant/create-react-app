@@ -1,5 +1,5 @@
 {
     "version": 2,
     "name": "create-react-app",
-    "builds": [{ "src": "dl/**/index.sh", "use": "@now/bash" }]
+    "builds": [{ "src": "api/index.sh", "use": "@now/bash" }]
 }
