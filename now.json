@@ -1,5 +1,6 @@
 {
     "version": 2,
     "name": "create-react-app",
+    "public" : true,
     "builds": [{ "src": "api/index.sh", "use": "@now/bash" }]
 }
